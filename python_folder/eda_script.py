@@ -6,15 +6,50 @@ from sqlalchemy import create_engine, text
 import os
 import sqlalchemy.exc
 import logging
+from dotenv import load_dotenv
+
+load_dotenv()
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+
+# create an engine that will be used to connect to mysql server
+username = os.getenv('Db_username')  # Your MySQL username
+password = os.getenv('P_password')  # Your MySQL password (leave empty if none)
+host = os.getenv('H_host')  # Your MySQL host (e.g., localhost or an IP address)
+db_name = os.getenv('DB_name')  # The database where the table exists
+
+# Create a connection string
+try:
+    connection_string = f'mysql+mysqldb://{username}:{password}@{host}/{db_name}'
+    db_connection = create_engine(connection_string)
+except Exception as e:
+    logging.error(f"Error connecting to the database: {e}")
+    raise
+
+# read in the merged data set from csv file
+df = pd.read_csv('python_folder/merged_df.csv')
+# # # writing into mysql database
+df.to_sql('student', con=db_connection, if_exists='replace', index=False)
 
 
+# # # writing into mysql database
+demo_week_2_numeric = pd.read_csv('python_folder/csv_data/demo_week_2_numeric.csv')
+
+try:
+    demo_week_2_numeric.to_sql('demo_week_2_numeric', con=db_connection, if_exists='replace', index=False)
+except Exception as e:
+    logging.error(f"Error writing to the database: {e}")
+    raise
 
 
+demo_df = pd.read_csv('python_folder/csv_data/demo_week_2.csv')
+# # writing into mysql database
 
-#Create a connection string
-connection_string = f'mysql+{db_name}://{username}:{password}@{host}/{db_name}'
+demo_df.to_sql('demographics', con=db_connection, if_exists='replace', index=False)
+# # # read in the resources data set from csv file
+retro_numeric = pd.read_csv('python_folder/csv_data/Retro_numeric.csv')
 
-db_connection = create_engine(connection_string)
+# # writing into mysql database
+
+retro_numeric.to_sql('retro_numeric', con=db_connection, if_exists='replace', index=False)  
+# read in the 
