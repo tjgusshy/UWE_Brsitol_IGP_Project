@@ -58,6 +58,20 @@ except Exception as e:
     raise
 
 
+demo_numeric = pd.read_csv('python_folder/demo_numeric.csv')
+print(demo_numeric.shape)
+# # # writing into mysql database
+
+
+# # # read in the resources data set from csv file
+
+try:
+   demo_numeric.to_sql('demo_numeric', con=db_connection, if_exists='replace', index=False)
+except Exception as e:
+    logging.error(f"Error writing to the database: {e}")
+    raise
+
+
 # retro_numeric = pd.read_csv('python_folder/csv_data/Retro_numeric.csv')
 
 # # # writing into mysql database
