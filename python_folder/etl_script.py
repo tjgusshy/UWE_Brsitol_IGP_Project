@@ -26,30 +26,41 @@ except Exception as e:
     logging.error(f"Error connecting to the database: {e}")
     raise
 
-# read in the merged data set from csv file
-df = pd.read_csv('python_folder/merged_df.csv')
-# # # writing into mysql database
-df.to_sql('student', con=db_connection, if_exists='replace', index=False)
+# # # read in the merged data set from csv file
+# students_info = pd.read_csv('python_folder/students_info.csv')
+# print(students_info.shape)
+# # # # # writing into mysql database
+# students_info.to_sql('students_info', con=db_connection, if_exists='replace', index=False)
 
 
+# # # # # # writing into mysql database
+# merged_weeks = pd.read_csv('python_folder/merged_weeks.csv')
+# print(merged_weeks.shape)
+
+# try:
+#     merged_weeks.to_sql('merged_weeks', con=db_connection, if_exists='replace', index=False)
+# except Exception as e:
+#     logging.error(f"Error writing to the database: {e}")
+#     raise
+
+
+demo_week_2 = pd.read_csv('python_folder/demo_week_2.csv')
+print(demo_week_2.shape)
 # # # writing into mysql database
-demo_week_2_numeric = pd.read_csv('python_folder/csv_data/demo_week_2_numeric.csv')
+
+
+# # # read in the resources data set from csv file
 
 try:
-    demo_week_2_numeric.to_sql('demo_week_2_numeric', con=db_connection, if_exists='replace', index=False)
+   demo_week_2.to_sql('demo_2', con=db_connection, if_exists='replace', index=False)
 except Exception as e:
     logging.error(f"Error writing to the database: {e}")
     raise
 
 
-demo_df = pd.read_csv('python_folder/csv_data/demo_week_2.csv')
-# # writing into mysql database
+# retro_numeric = pd.read_csv('python_folder/csv_data/Retro_numeric.csv')
 
-demo_df.to_sql('demographics', con=db_connection, if_exists='replace', index=False)
-# # # read in the resources data set from csv file
-retro_numeric = pd.read_csv('python_folder/csv_data/Retro_numeric.csv')
+# # # writing into mysql database
 
-# # writing into mysql database
-
-retro_numeric.to_sql('retro_numeric', con=db_connection, if_exists='replace', index=False)  
-# read in the 
+# retro_numeric.to_sql('retro_numeric', con=db_connection, if_exists='replace', index=False)  
+# # read in the 
