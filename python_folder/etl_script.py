@@ -1,3 +1,58 @@
+"""
+ETL Script Documentation
+========================
+
+Overview:
+---------
+This script performs ETL (Extract, Transform, Load) operations for student engagement and demographic data. It reads cleaned and merged CSV files, connects to a MySQL database using credentials stored in a .env file, and loads the data into corresponding database tables. The script is modular and robust, with error handling and logging for database operations.
+
+Process Breakdown:
+------------------
+1. **Environment Setup**
+   - Loads environment variables from a `.env` file using `python-dotenv` for secure credential management.
+   - Sets up logging for process tracking and error reporting.
+
+2. **Database Connection**
+   - Reads MySQL credentials (`Db_username`, `P_password`, `H_host`, `DB_name`) from the `.env` file.
+   - Creates a SQLAlchemy engine for MySQL database connection.
+   - Handles connection errors gracefully.
+
+3. **Data Extraction**
+   - Reads cleaned and pre-processed CSV files from the `python_folder/eda.ipynb`:
+     - `students_info.csv`: Student demographic and engagement summary.
+     - `merged_weeks.csv`: Merged weekly engagement data.
+     - `demo_week_2.csv`, `demo_numeric.csv`, `Retrospective.csv`, `Retro_numeric.csv`: Additional demographic and retrospective survey data.
+
+4. **Data Loading**
+   - Loads each DataFrame into the MySQL database using `to_sql` with `if_exists='replace'` to overwrite existing tables.
+   - Handles and logs any errors during the loading process.
+
+5. **Error Handling**
+   - Uses try-except blocks to catch and log database connection and data loading errors.
+
+6. **Modularity**
+   - Each major step (connection, extraction, loading) is clearly separated for maintainability.
+
+.env File Usage:
+----------------
+- The script uses the `.env` file to securely store sensitive database credentials. Example `.env` file:
+
+    Db_username=your_mysql_username
+    P_password=your_mysql_password
+    H_host=localhost
+    DB_name=your_database_name
+
+- This approach keeps credentials out of the codebase and supports best practices for security and configuration management.
+
+Best Practices:
+---------------
+- Sensitive information is never hardcoded; always use environment variables.
+- Logging is enabled for traceability and debugging.
+- Data is loaded in a reproducible and idempotent way (tables are replaced each run).
+- All file paths are relative to the project structure for portability.
+
+"""
+
 import pandas as pd
 import numpy as np
 import seaborn as sn

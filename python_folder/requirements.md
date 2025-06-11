@@ -14,3 +14,5 @@ how to go about cleaning the data:
 step one
 clean the column names
 make the columns understandable and join row one to row two
+
+look at the week they do more
