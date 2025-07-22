@@ -9,6 +9,10 @@ Relationship between student demographics (e.g., age, gender, experience, academ
 Time management: Variations in time spent on LMS platforms may relate to different student time management skills (e.g. a) Proactivity: access materials a week in advance, b) regularity: accessing blackboard material every week, c) revision strategies: revisit previous weeks materials.
 
 
+due to low level of proactiveness, average proactivesness was calculated.
+
+proactivity == 
+
 how to go about cleaning the data:
 
 step one
