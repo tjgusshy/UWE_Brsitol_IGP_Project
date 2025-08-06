@@ -1,0 +1,348 @@
+student_id,total_marks,list_of_countries,what_is_your_year_of_birth,how_do_you_describe_yourself___selected_choice,what_is_your_first_degree_subject_area,what_is_your_year_of_birth_just_the_year
+213,56.0,United Kingdom of Great Britain and Northern Ireland,1999.0,Female,CAH11-01	Computing,
+214,48.0,Nigeria,1992.0,Male,CAH11-01	Computing,
+215,62.0,Nigeria,1987.0,Male,CAH11-01	Computing,
+216,63.0,Nigeria,1993.0,Male,"CAH24-01	Media, journalism and communications",
+217,64.0,Pakistan,1996.0,Male,CAH11-01	Computing,
+218,57.0,Pakistan,1996.0,Male,CAH11-01	Computing,
+219,72.0,Nigeria,1993.0,Male,CAH07-01	Physics and astronomy,
+220,68.0,Ghana,1992.0,Male,CAH11-01	Computing,
+221,70.0,Ghana,1992.0,Male,"CAH06-01	Agriculture, food and related studies",
+222,72.0,Nigeria,1994.0,Male,CAH03-01	Biosciences,
+223,75.0,Nigeria,1991.0,Female,CAH07-02	Chemistry,
+224,55.0,Ghana,1987.0,Male,CAH15-03	Politics,
+225,60.0,Nigeria,1995.0,Male,CAH11-01	Computing,
+226,68.0,Nigeria,1995.0,Male,CAH10-01	Engineering,
+227,68.0,Nigeria,1996.0,Female,CAH11-01	Computing,
+228,50.0,Bangladesh,1993.0,Male,CAH11-01	Computing,
+229,65.0,Hong Kong (S.A.R.),1998.0,Male,CAH11-01	Computing,
+230,58.0,Bangladesh,1993.0,Male,CAH11-01	Computing,
+231,63.0,Pakistan,1997.0,Female,CAH11-01	Computing,
+232,64.0,Nigeria,1997.0,Prefer not to say,"CAH24-01	Media, journalism and communications",
+233,52.0,Spain,1995.0,Male,CAH11-01	Computing,
+234,42.0,India,1996.0,Female,"CAH07-04	General, applied and forensic sciences",
+235,54.0,Nigeria,1987.0,Male,CAH11-01	Computing,
+236,46.0,India,2000.0,Female,CAH11-01	Computing,
+237,64.0,Bangladesh,1994.0,Male,CAH11-01	Computing,
+238,57.0,Pakistan,1995.0,Male,CAH11-01	Computing,
+239,67.0,Pakistan,1995.0,Female,CAH11-01	Computing,
+240,70.0,Kenya,1991.0,Male,CAH11-01	Computing,
+241,70.0,United Kingdom of Great Britain and Northern Ireland,1981.0,Male,CAH15-02	Economics,
+242,66.0,Nigeria,1981.0,Male,CAH20-02	Philosophy and religious studies,
+243,57.0,Nigeria,1992.0,Male,CAH15-03	Politics,
+244,60.0,Nigeria,1994.0,Male,CAH11-01	Computing,
+245,51.0,Nigeria,1989.0,Male,"CAH13-01	Architecture, building and planning",
+246,65.0,Nigeria,1991.0,Male,CAH11-01	Computing,
+247,52.0,Nigeria,1981.0,Male,CAH10-01	Engineering,
+248,53.0,Sri Lanka,1994.0,Male,CAH11-01	Computing,
+249,51.0,India,1986.0,Female,CAH11-01	Computing,
+250,47.0,India,1992.0,Female,CAH11-01	Computing,
+251,54.0,India,1992.0,Female,CAH11-01	Computing,
+252,57.0,Sri Lanka,1996.0,Female,CAH11-01	Computing,
+253,52.0,Sri Lanka,1997.0,Male,CAH11-01	Computing,
+254,54.0,United States of America,1996.0,Male,"CAH24-01	Media, journalism and communications",
+255,55.0,Nigeria,1991.0,Male,CAH10-01	Engineering,
+256,77.0,Belize,1986.0,Female,CAH11-01	Computing,
+257,62.0,Sri Lanka,1989.0,Male,CAH11-01	Computing,
+258,73.0,Sri Lanka,1992.0,Female,CAH11-01	Computing,
+259,70.0,Ghana,1999.0,Male,CAH10-01	Engineering,
+260,60.0,Nigeria,1989.0,Male,CAH10-01	Engineering,
+261,60.0,Saudi Arabia,1995.0,Female,CAH11-01	Computing,
+262,72.0,Sri Lanka,1988.0,Female,CAH11-01	Computing,
+263,75.0,Sri Lanka,1994.0,Male,CAH10-01	Engineering,
+264,60.0,Nepal,1997.0,Male,CAH10-03	Materials and technology,
+265,70.0,Nigeria,1991.0,Female,"CAH24-01	Media, journalism and communications",
+266,60.0,Nigeria,1992.0,Male,CAH11-01	Computing,
+267,55.0,India,1992.0,Female,CAH11-01	Computing,
+268,73.0,United Kingdom of Great Britain and Northern Ireland,1985.0,Male,CAH11-01	Computing,
+269,72.0,Nigeria,1987.0,Female,CAH11-01	Computing,
+270,45.0,India,1998.0,Male,CAH11-01	Computing,
+271,73.0,Nigeria,1994.0,Male,CAH15-02	Economics,
+272,76.0,Sri Lanka,1998.0,Male,CAH11-01	Computing,
+273,77.0,Sudan,1994.0,Female,CAH25-01	Creative arts and design,
+274,60.0,India,2001.0,Female,CAH11-01	Computing,
+275,67.0,Ghana,1993.0,Male,CAH11-01	Computing,
+276,58.0,Nepal,1998.0,Male,CAH10-03	Materials and technology,
+277,63.0,Nigeria,1982.0,Female,CAH22-01	Education and teaching,
+278,58.0,Nigeria,1980.0,Male,CAH10-01	Engineering,
+279,60.0,Nigeria,1986.0,Male,CAH11-01	Computing,
+280,61.0,Sri Lanka,1989.0,Male,CAH11-01	Computing,
+281,66.0,Ghana,1989.0,Male,CAH11-01	Computing,
+282,72.0,Sri Lanka,1995.0,Female,CAH11-01	Computing,
+283,64.0,Sri Lanka,1990.0,Male,CAH11-01	Computing,
+284,62.0,India,1998.0,Female,CAH10-01	Engineering,
+285,55.0,Pakistan,1996.0,Male,CAH11-01	Computing,
+286,63.0,Indonesia,1998.0,Male,CAH11-01	Computing,
+287,61.0,Sri Lanka,1992.0,Female,CAH11-01	Computing,
+288,58.0,Sri Lanka,1993.0,Male,CAH11-01	Computing,
+289,65.0,India,2002.0,Female,CAH10-01	Engineering,
+290,35.0,Nigeria,1989.0,Male,CAH11-01	Computing,
+291,60.0,Sri Lanka,1997.0,Male,CAH10-01	Engineering,
+292,55.0,Pakistan,1998.0,Male,CAH11-01	Computing,
+293,53.0,Pakistan,1989.0,Male,CAH11-01	Computing,
+294,58.0,Bangladesh,1998.0,Male,CAH11-01	Computing,
+295,61.0,Bangladesh,1997.0,Male,CAH10-01	Engineering,
+296,57.0,India,1991.0,Female,CAH11-01	Computing,
+297,68.0,Sri Lanka,1984.0,Female,CAH11-01	Computing,
+298,68.0,Sri Lanka,1995.0,Male,CAH11-01	Computing,
+299,70.0,Nigeria,1996.0,Female,CAH02-05	Medical sciences,
+300,68.0,Sri Lanka,1986.0,Female,CAH11-01	Computing,
+301,58.0,Afghanistan,1996.0,Male,CAH11-01	Computing,
+302,53.0,India,1998.0,Female,CAH11-01	Computing,
+303,51.0,Bangladesh,1992.0,Male,CAH11-01	Computing,
+304,77.0,Sri Lanka,1996.0,Female,CAH11-01	Computing,
+305,70.0,Peru,1999.0,Female,CAH10-01	Engineering,
+306,58.0,Sri Lanka,1996.0,Female,CAH11-01	Computing,
+307,58.0,India,1994.0,Female,CAH11-01	Computing,
+308,76.0,India,2000.0,Female,CAH11-01	Computing,
+309,70.0,Nigeria,1987.0,Female,CAH11-01	Computing,
+310,62.0,India,1992.0,Female,CAH11-01	Computing,
+311,72.0,Nigeria,1984.0,Male,CAH07-01	Physics and astronomy,
+312,60.0,Nigeria,1979.0,Female,CAH09-01	Mathematical sciences,
+313,71.0,Nigeria,1991.0,Male,CAH10-01	Engineering,
+314,64.0,Nigeria,1990.0,Male,CAH22-01	Education and teaching,
+315,71.0,India,2001.0,Male,CAH11-01	Computing,
+316,60.0,India,2001.0,Male,CAH11-01	Computing,
+317,65.0,Pakistan,1996.0,Male,CAH11-01	Computing,
+318,60.0,Bangladesh,1998.0,Male,CAH10-01	Engineering,
+319,50.0,India,1995.0,Female,CAH10-01	Engineering,
+320,58.0,India,1999.0,Male,CAH10-03	Materials and technology,
+321,70.0,Somalia,1911.0,Male,CAH10-01	Engineering,
+322,70.0,India,1999.0,Female,CAH17-01	Business and management,
+323,63.0,India,1997.0,Female,CAH11-01	Computing,
+324,76.0,Sri Lanka,1994.0,Female,CAH11-01	Computing,
+325,75.0,India,1998.0,Male,CAH10-01	Engineering,
+326,64.0,Portugal,2000.0,Male,CAH11-01	Computing,
+327,67.0,India,2001.0,Male,CAH11-01	Computing,
+328,66.0,Nigeria,1995.0,Female,CAH11-01	Computing,
+329,68.0,China,2002.0,Male,CAH11-01	Computing,
+330,58.0,Nigeria,1990.0,Male,CAH11-01	Computing,
+331,63.0,Iraq,1987.0,Female,CAH11-01	Computing,
+332,66.0,Ghana,1995.0,Male,"CAH06-01	Agriculture, food and related studies",
+333,71.0,Nigeria,1996.0,Male,CAH03-01	Biosciences,
+334,70.0,India,1993.0,Male,CAH10-01	Engineering,
+335,68.0,Iran,2001.0,Male,CAH10-03	Materials and technology,
+336,57.0,Nigeria,1998.0,Male,CAH03-01	Biosciences,
+337,64.0,United States of America,1991.0,Female,CAH19-01	English studies,
+338,72.0,Nigeria,1995.0,Male,CAH11-01	Computing,
+339,67.0,Pakistan,2000.0,Female,CAH05-01	Veterinary sciences,
+340,57.0,Algeria,1999.0,Female,CAH11-01	Computing,
+341,61.0,Pakistan,1998.0,Male,CAH11-01	Computing,
+342,68.0,Myanmar,2000.0,Female,CAH11-01	Computing,
+343,70.0,Nigeria,1985.0,Male,"CAH06-01	Agriculture, food and related studies",
+344,57.0,Myanmar,1997.0,Female,CAH10-01	Engineering,
+345,65.0,India,1996.0,Male,CAH11-01	Computing,
+346,61.0,India,1995.0,Female,CAH11-01	Computing,
+347,58.0,Myanmar,2003.0,Female,CAH11-01	Computing,
+1,60.0,Nigeria,,Male,"CAH13-01	Architecture, building and planning",1996.0
+2,70.0,Nigeria,,Male,CAH07-02	Chemistry,1996.0
+3,65.0,Nigeria,,Female,CAH15-02	Economics,1990.0
+4,55.0,Nigeria,,Male,CAH15-02	Economics,1991.0
+5,65.0,Pakistan,,Male,CAH17-01	Business and management,1998.0
+6,62.0,Nigeria,,Male,CAH10-01	Engineering,1985.0
+7,61.0,Nigeria,,Male,CAH11-01	Computing,1985.0
+8,77.0,United Kingdom of Great Britain and Northern Ireland,,Female,"CAH07-04	General, applied and forensic sciences",2001.0
+9,61.0,Nigeria,,Male,CAH03-01	Biosciences,1976.0
+10,63.0,India,,Female,CAH11-01	Computing,1998.0
+11,67.0,Nigeria,,Female,CAH07-02	Chemistry,1996.0
+12,66.0,Nigeria,,Female,"CAH06-01	Agriculture, food and related studies",1986.0
+13,76.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH11-01	Computing,1995.0
+14,57.0,Bangladesh,,Female,CAH10-01	Engineering,1997.0
+15,64.0,Italy,,Female,CAH16-01	Law,2000.0
+16,64.0,Sri Lanka,,Female,CAH17-01	Business and management,1993.0
+17,78.0,Viet Nam,,Male,CAH11-01	Computing,1999.0
+18,63.0,Viet Nam,,Female,CAH17-01	Business and management,1996.0
+19,62.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH15-02	Economics,2001.0
+20,62.0,Sri Lanka,,Female,CAH17-01	Business and management,1989.0
+21,66.0,Sri Lanka,,Male,CAH17-01	Business and management,1997.0
+22,59.0,Nigeria,,Male,"CAH07-04	General, applied and forensic sciences",1990.0
+23,67.0,Nigeria,,Female,CAH09-01	Mathematical sciences,1993.0
+24,75.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH03-01	Biosciences,1988.0
+25,66.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH17-01	Business and management,2000.0
+26,83.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH15-02	Economics,1998.0
+27,71.0,Switzerland,,Female,CAH17-01	Business and management,1996.0
+28,82.0,United Kingdom of Great Britain and Northern Ireland,,Non-binary / third gender,"CAH15-01	Sociology, social policy and anthropology",1995.0
+29,81.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH11-01	Computing,1998.0
+30,71.0,Spain,,Male,CAH10-01	Engineering,1983.0
+31,63.0,India,,Male,CAH11-01	Computing,1998.0
+32,54.0,Nigeria,,Female,CAH17-01	Business and management,1979.0
+33,62.0,Nigeria,,Prefer to self-describe,CAH17-01	Business and management,1970.0
+34,60.0,Sri Lanka,,Female,CAH17-01	Business and management,1992.0
+35,62.0,Nigeria,,Male,CAH11-01	Computing,1999.0
+36,62.0,Nigeria,,Female,"CAH07-04	General, applied and forensic sciences",1987.0
+37,67.0,Sri Lanka,,Male,CAH17-01	Business and management,1981.0
+38,65.0,Pakistan,,Male,CAH11-01	Computing,1993.0
+39,62.0,Pakistan,,Female,CAH11-01	Computing,1991.0
+40,63.0,Sri Lanka,,Male,CAH17-01	Business and management,1996.0
+41,60.0,India,,Male,CAH15-02	Economics,1992.0
+42,83.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH07-01	Physics and astronomy,1975.0
+43,62.0,Sri Lanka,,Female,CAH17-01	Business and management,1990.0
+44,76.0,Malaysia,,Male,CAH17-01	Business and management,1993.0
+45,67.0,Thailand,,Male,CAH10-01	Engineering,1993.0
+46,65.0,India,,Male,CAH17-01	Business and management,1994.0
+47,66.0,United Kingdom of Great Britain and Northern Ireland,,Female,"CAH26-01 Geography, earth and environmental studies",1997.0
+48,60.0,Malaysia,,Male,CAH25-01	Creative arts and design,1992.0
+49,68.0,Nigeria,,Female,CAH11-01	Computing,1984.0
+50,57.0,Nigeria,,Male,CAH11-01	Computing,1992.0
+51,67.0,Nigeria,,Female,CAH16-01	Law,1998.0
+52,62.0,Nigeria,,Female,CAH10-03	Materials and technology,1991.0
+53,67.0,Nigeria,,Female,CAH09-01	Mathematical sciences,2001.0
+54,68.0,Nigeria,,Female,CAH11-01	Computing,1979.0
+55,66.0,Nigeria,,Female,CAH10-03	Materials and technology,1986.0
+56,70.0,Nigeria,,Female,CAH11-01	Computing,1986.0
+57,55.0,Nigeria,,Female,CAH17-01	Business and management,1990.0
+58,66.0,Nigeria,,Male,CAH03-01	Biosciences,1992.0
+59,54.0,Sri Lanka,,Male,CAH10-01	Engineering,1991.0
+60,59.0,Viet Nam,,Female,CAH17-01	Business and management,1997.0
+61,60.0,India,,Female,CAH10-01	Engineering,1993.0
+62,60.0,Turkey,,Male,CAH17-01	Business and management,1996.0
+63,78.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH17-01	Business and management,1998.0
+64,61.0,Iran,,Female,CAH15-04	Health and social care,1989.0
+65,55.0,Hong Kong (S.A.R.),,Male,"CAH13-01	Architecture, building and planning",2000.0
+66,60.0,Hong Kong (S.A.R.),,Female,"CAH15-01	Sociology, social policy and anthropology",1995.0
+67,58.0,India,,Female,CAH17-01	Business and management,1987.0
+68,70.0,Myanmar,,Female,CAH11-01	Computing,1996.0
+69,64.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH10-01	Engineering,1992.0
+70,65.0,Nigeria,,Male,CAH15-02	Economics,1995.0
+71,64.0,Viet Nam,,Male,CAH15-02	Economics,1998.0
+72,69.0,India,,Male,"CAH06-01	Agriculture, food and related studies",1984.0
+73,64.0,India,,Female,CAH10-01	Engineering,1997.0
+74,63.0,Sri Lanka,,Female,CAH17-01	Business and management,1986.0
+75,62.0,Sri Lanka,,Male,CAH17-01	Business and management,1980.0
+76,61.0,Poland,,Male,CAH02-05	Medical sciences,1996.0
+77,77.0,Sri Lanka,,Male,CAH17-01	Business and management,1990.0
+78,56.0,Pakistan,,Male,CAH10-01	Engineering,1992.0
+79,66.0,India,,Female,CAH15-02	Economics,1994.0
+80,54.0,Nigeria,,Male,CAH10-01	Engineering,1988.0
+81,73.0,India,,Female,CAH11-01	Computing,1989.0
+82,63.6,Nigeria,,Female,CAH09-01	Mathematical sciences,1985.0
+83,65.2,Nigeria,,Female,CAH07-01	Physics and astronomy,1996.0
+84,69.0,India,,Male,CAH11-01	Computing,1999.0
+85,56.8,Nigeria,,Male,"CAH02-02	Pharmacology, toxicology and pharmacy",1993.0
+86,74.0,Cameroon,,Male,CAH10-03	Materials and technology,1997.0
+87,74.6,Egypt,,Male,CAH10-01	Engineering,1996.0
+88,62.6,Nigeria,,Male,CAH10-01	Engineering,1980.0
+89,70.0,Thailand,,Male,CAH11-01	Computing,1997.0
+90,68.2,Pakistan,,Male,CAH11-01	Computing,1995.0
+91,73.6,Sri Lanka,,Male,CAH17-01	Business and management,1994.0
+92,57.0,Nigeria,,Male,,1992.0
+93,66.4,Sri Lanka,,Male,CAH11-01	Computing,1986.0
+94,74.8,India,,Female,CAH10-01	Engineering,1984.0
+95,68.4,Nigeria,,Female,CAH03-01	Biosciences,1980.0
+96,73.4,Sri Lanka,,Male,CAH11-01	Computing,1998.0
+97,72.4,Bolivia,,Male,CAH10-01	Engineering,1998.0
+98,76.0,Spain,,Female,"CAH24-01	Media, journalism and communications",1994.0
+99,73.8,Turkey,,Male,CAH17-01	Business and management,1987.0
+100,76.4,Turkey,,Male,CAH15-02	Economics,1990.0
+101,60.0,Nigeria,,Male,CAH10-01	Engineering,1999.0
+102,65.0,Nigeria,,Male,CAH07-01	Physics and astronomy,1995.0
+103,69.6,Nigeria,,Female,CAH07-02	Chemistry,1997.0
+104,62.8,Nigeria,,Male,CAH11-01	Computing,1976.0
+105,71.8,Sri Lanka,,Male,CAH09-01	Mathematical sciences,1977.0
+106,66.0,Nigeria,,Female,CAH03-01	Biosciences,1986.0
+107,63.4,Bangladesh,,Male,CAH11-01	Computing,1999.0
+108,74.0,India,,Female,CAH11-01	Computing,1997.0
+109,52.6,United States of America,,Male,CAH03-02	Sport and exercise sciences,1997.0
+110,68.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH03-01	Biosciences,1998.0
+111,62.6,Nigeria,,Male,CAH15-02	Economics,1980.0
+112,73.0,Sri Lanka,,Female,CAH09-01	Mathematical sciences,1992.0
+113,59.0,Nigeria,,Male,CAH16-01	Law,1990.0
+114,58.0,Nigeria,,Female,CAH19-01	English studies,1996.0
+115,58.0,Nigeria,,Male,CAH07-01	Physics and astronomy,2001.0
+116,70.6,Ghana,,Male,CAH04-01	Psychology,1992.0
+117,66.4,Pakistan,,Female,CAH11-01	Computing,1999.0
+118,73.0,Myanmar,,Female,CAH17-01	Business and management,1991.0
+119,64.4,Nigeria,,Male,"CAH26-01 Geography, earth and environmental studies",1994.0
+120,52.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH04-01	Psychology,2000.0
+121,64.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH11-01	Computing,2002.0
+122,64.0,Poland,,Male,CAH17-01	Business and management,2001.0
+123,74.2,Iran,,Male,CAH10-01	Engineering,1982.0
+124,73.2,Malaysia,,Male,CAH17-01	Business and management,1992.0
+125,63.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH10-01	Engineering,1987.0
+126,73.2,Algeria,,Female,"CAH07-04	General, applied and forensic sciences",2002.0
+127,72.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH07-01	Physics and astronomy,1980.0
+128,73.8,United Kingdom of Great Britain and Northern Ireland,,Female,CAH04-01	Psychology,1984.0
+129,72.0,United Kingdom of Great Britain and Northern Ireland,,Male,,1988.0
+130,56.2,China,,Male,CAH11-01	Computing,2001.0
+131,74.0,Singapore,,Female,CAH04-01	Psychology,1988.0
+132,65.8,India,,Male,CAH11-01	Computing,1990.0
+133,61.8,Philippines,,Male,CAH17-01	Business and management,1984.0
+134,62.2,Turkey,,Male,CAH11-01	Computing,1982.0
+135,70.6,Viet Nam,,Male,,1995.0
+136,72.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH11-01	Computing,1974.0
+137,58.0,Nigeria,,Female,CAH17-01	Business and management,1991.0
+138,58.0,Morocco,,Male,CAH11-01	Computing,2001.0
+139,63.0,Nigeria,,Male,CAH03-01	Biosciences,2000.0
+140,75.2,United Kingdom of Great Britain and Northern Ireland,,Female,CAH04-01	Psychology,1988.0
+141,51.8,China,,Male,CAH11-01	Computing,2001.0
+142,60.0,Jordan,,Female,CAH04-01	Psychology,1994.0
+143,64.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH02-05	Medical sciences,1990.0
+144,64.4,Bangladesh,,Female,CAH17-01	Business and management,1995.0
+145,64.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH20-01	History and archaeology,2002.0
+146,74.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH22-01	Education and teaching,1979.0
+147,76.2,United Kingdom of Great Britain and Northern Ireland,,Male,CAH09-01	Mathematical sciences,1983.0
+148,73.4,Sri Lanka,,Male,CAH10-01	Engineering,1983.0
+149,60.4,Sri Lanka,,Male,CAH17-01	Business and management,1993.0
+150,61.8,United Kingdom of Great Britain and Northern Ireland,,Male,CAH09-01	Mathematical sciences,2000.0
+151,63.6,United Kingdom of Great Britain and Northern Ireland,,Male,CAH04-01	Psychology,1996.0
+152,61.2,Bangladesh,,Male,CAH10-01	Engineering,1999.0
+153,58.0,Nigeria,,Female,CAH25-01	Creative arts and design,1976.0
+154,71.0,Pakistan,,Male,CAH11-01	Computing,1998.0
+155,68.2,Turkey,,Female,CAH22-01	Education and teaching,1969.0
+156,73.0,Sri Lanka,,Male,CAH17-01	Business and management,2001.0
+157,61.4,Sri Lanka,,Male,CAH17-01	Business and management,1986.0
+158,60.6,India,,Male,CAH10-01	Engineering,1995.0
+159,48.2,Cameroon,,Female,CAH17-01	Business and management,1991.0
+160,61.8,United Kingdom of Great Britain and Northern Ireland,,Male,CAH09-01	Mathematical sciences,2001.0
+161,64.4,Egypt,,Male,CAH11-01	Computing,2000.0
+162,69.4,Myanmar,,Male,CAH11-01	Computing,1995.0
+163,72.0,United Kingdom of Great Britain and Northern Ireland,,Male,CAH15-03	Politics,1991.0
+164,65.0,Sri Lanka,,Male,CAH11-01	Computing,1994.0
+165,61.6,Turkey,,Male,CAH17-01	Business and management,1984.0
+166,68.6,Malaysia,,Female,CAH17-01	Business and management,1998.0
+167,74.6,Pakistan,,Male,CAH10-01	Engineering,1995.0
+168,63.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH17-01	Business and management,2001.0
+169,76.2,Sweden,,Male,"CAH15-01	Sociology, social policy and anthropology",1977.0
+170,73.4,Pakistan,,Male,CAH11-01	Computing,1987.0
+171,73.2,India,,Male,CAH10-01	Engineering,2001.0
+172,63.8,Nigeria,,Male,"CAH26-01 Geography, earth and environmental studies",2001.0
+173,74.0,Viet Nam,,Male,CAH11-01	Computing,1998.0
+174,64.6,China,,Male,CAH11-01	Computing,2002.0
+175,71.2,Nigeria,,Female,CAH17-01	Business and management,1996.0
+176,64.4,Nigeria,,Female,CAH09-01	Mathematical sciences,1980.0
+177,66.2,Nigeria,,Female,CAH17-01	Business and management,2001.0
+178,63.0,Australia,,Female,CAH16-01	Law,1977.0
+179,65.8,United Kingdom of Great Britain and Northern Ireland,,Male,CAH11-01	Computing,2001.0
+180,73.2,India,,Male,CAH10-01	Engineering,2000.0
+181,64.4,Nigeria,,Female,CAH17-01	Business and management,1976.0
+182,63.4,Sri Lanka,,Female,CAH17-01	Business and management,2000.0
+183,68.6,Viet Nam,,Female,CAH17-01	Business and management,1997.0
+184,73.0,Thailand,,Male,CAH17-01	Business and management,2001.0
+185,67.4,United Kingdom of Great Britain and Northern Ireland,,Male,CAH04-01	Psychology,2001.0
+186,62.4,Iran,,Female,CAH10-01	Engineering,1995.0
+187,64.8,United Kingdom of Great Britain and Northern Ireland,,Female,CAH09-01	Mathematical sciences,1997.0
+188,52.4,Egypt,,Male,CAH10-01	Engineering,1986.0
+189,63.8,Sri Lanka,,Female,CAH10-01	Engineering,1987.0
+190,73.8,Algeria,,Male,,1996.0
+191,62.4,Sri Lanka,,Female,CAH17-01	Business and management,1996.0
+192,73.0,Iran,,Male,CAH10-01	Engineering,1988.0
+193,73.0,Sri Lanka,,Female,CAH09-01	Mathematical sciences,1996.0
+194,69.2,India,,Male,CAH17-01	Business and management,1996.0
+195,62.4,India,,Male,CAH10-01	Engineering,1997.0
+196,70.0,Nigeria,,Male,CAH11-01	Computing,1991.0
+197,58.0,Nigeria,,Female,CAH15-02	Economics,1997.0
+198,57.0,United Kingdom of Great Britain and Northern Ireland,,Female,CAH04-01	Psychology,2000.0
+199,68.6,Malaysia,,Female,CAH17-01	Business and management,2000.0
+200,63.2,United Kingdom of Great Britain and Northern Ireland,,Female,CAH15-02	Economics,2001.0
+201,71.2,China,,Male,CAH11-01	Computing,2002.0
+202,68.2,Iran,,Female,CAH10-01	Engineering,1992.0
+203,73.2,Pakistan,,Male,CAH10-01	Engineering,1994.0
+204,52.5,India,,Male,CAH10-01	Engineering,1999.0
+205,68.6,Myanmar,,Female,CAH17-01	Business and management,2001.0
+206,73.8,Turkey,,Female,CAH10-01	Engineering,1999.0
+207,71.6,Nigeria,,Male,CAH15-02	Economics,1994.0
+208,60.4,India,,Male,CAH19-01	English studies,1992.0
+209,64.0,Bangladesh,,Female,CAH17-01	Business and management,1996.0
+210,73.0,Sri Lanka,,Female,CAH11-01	Computing,1996.0
+211,61.8,Myanmar,,Female,CAH11-01	Computing,1998.0
+212,63.0,United States of America,,Male,CAH11-01	Computing,2001.0
