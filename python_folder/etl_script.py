@@ -34,7 +34,7 @@ Process Breakdown:
    - Each major step (connection, extraction, loading) is clearly separated for maintainability.
 
 .env File Usage:
-----------------
+-------
 - The script uses the `.env` file to securely store sensitive database credentials. Example `.env` file:
 
     Db_username=your_mysql_username
