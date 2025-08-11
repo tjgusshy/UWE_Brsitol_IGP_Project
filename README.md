@@ -13,8 +13,6 @@ python_folder/
 ├── etl_script.py            # ETL pipeline for data cleaning and integration
 ├── data_cleaning_one.ipynb  # Jupyter notebook for cleaning and merging all weeks of data set on
 ├── data_cleaning_o2.ipynb   # Jupyter notebook for cleaning and merging all weeks of data set on
-├── merged_datatwo.csv       # Merged dataset for analysis
-├── merged_demography.csv    # Merged demographic data
 ```
 
 ---
@@ -31,10 +29,6 @@ python_folder/
 
 - **demo_week_dataone.csv, merged_datatwo.csv, merged_demography.csv, new.csv**
   - Example and processed datasets for analysis and modeling.
-
-- **Twelve Year Guardian League Table (1).xlsx**
-  - Source data for institutional performance benchmarking.
-
 ---
 
 ## 🛠️ How to Use
