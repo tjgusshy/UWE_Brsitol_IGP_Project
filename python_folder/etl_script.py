@@ -99,7 +99,7 @@ except Exception as e:
     raise
 
 
-demo_week = pd.read_csv('python_folder/demo_week_2.csv')
+demo_week = pd.read_csv('python_folder/merged_demography.csv')
 # # # writing into mysql database
 
 
